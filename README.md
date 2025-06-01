@@ -29,8 +29,8 @@ It automates testing for the **[Levelset](https://www.levelset.com/)** website, 
 - **Selenium WebDriver** - Browser automation  
 - **TestNG** - Test framework for managing test execution  
 - **Maven** - Dependency management  
-- **Page Object Model (POM)** - Design pattern for better test structure  
-- **GitHub Actions (CI/CD)** *(optional: for automated test execution)*  
+- **Page Object Model (POM)** - Design pattern for better test structure
+- **Allure** - Executing Reports  
 
 ---
 
